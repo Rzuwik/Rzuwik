@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Rzuwik/Rzuwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br />
+<br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [TB-Client](https://tb-client.pl) Project
